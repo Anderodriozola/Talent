@@ -1,5 +1,18 @@
 {
-  "updated_at": "Pendiente de primera ejecución",
-  "jobs": [],
-  "source_status": []
+"updated_at": "29/09/2026 16:30",
+"jobs": [
+{
+"id": "1",
+"title": "Director/a de Comunicación",
+"company": "Museo Guggenheim Bilbao",
+"location": "Bilbao",
+"province": "Bizkaia",
+"category": "Comunicación",
+"date": "29/09/2026",
+"url": "https://www.guggenheim-bilbao.eus/empleo-y-practicas/ofertas-de-empleo",
+"source": "Guggenheim",
+"is_new": true
+}
+],
+"source_status": []
 }
