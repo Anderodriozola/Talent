@@ -1,12 +1,12 @@
 name: Prueba
  
 on:
-workflow_dispatch:
+  workflow_dispatch:
  
 jobs:
-test:
-runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
  
-steps:
-- name: Hola
-run: echo "Hola Talent"
+    steps:
+      - name: Hola
+      run: echo "Hola Talent"
