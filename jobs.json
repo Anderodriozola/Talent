@@ -1,11 +1,11 @@
 {
-  "updated_at": "29/09/2026 12:32",
+  "updated_at": "29/09/2026 12:44",
   "jobs": [
     {
-      "id": "6daa0cbc80e0",
-      "title": "DIRECCIÓN DE MARCA, REPUTACIÓN Y COMUNICACIÓN Donostialdea",
-      "company": "",
-      "location": "DIRECCIÓN DE MARCA, REPUTACIÓN Y COMUNICACIÓN Donostialdea",
+      "id": "cb01b2f06b04",
+      "title": "DIRECCIÓN DE MARCA, REPUTACIÓN Y COMUNICACIÓN",
+      "company": "Empresa no indicada",
+      "location": "Donostialdea",
       "province": "Gipuzkoa",
       "category": "Marca y branding",
       "date": "",
@@ -14,294 +14,23 @@
       "is_new": true
     },
     {
-      "id": "0e8c3800f3c3",
-      "title": "TÉCNICO/A DE COMUNICACIÓN Y DESARROLLO INTERNAC... Donostialdea",
-      "company": "",
-      "location": "TÉCNICO/A DE COMUNICACIÓN Y DESARROLLO INTERNAC... Donostialdea",
+      "id": "155201dad36c",
+      "title": "TÉCNICO/A DE COMUNICACIÓN Y DESARROLLO INTERNAC...",
+      "company": "Empresa no indicada",
+      "location": "Donostialdea",
       "province": "Gipuzkoa",
       "category": "Comunicación",
       "date": "",
       "url": "https://empleo.batea.com/jobs/8432076-tecnico-a-de-comunicacion-y-desarrollo-internacional-zineuskadi",
       "source": "Batea",
       "is_new": true
-    },
-    {
-      "id": "b6eca5dd0c9d",
-      "title": "Acerca del Museo",
-      "company": "",
-      "location": "Acerca del Museo",
-      "province": "Euskadi",
-      "category": "Marketing digital",
-      "date": "",
-      "url": "https://www.guggenheim-bilbao.eus/acerca-del-museo",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "328c7c2cec78",
-      "title": "Amigos del Museo",
-      "company": "",
-      "location": "Amigos del Museo",
-      "province": "Euskadi",
-      "category": "Marketing digital",
-      "date": "",
-      "url": "https://www.guggenheim-bilbao.eus/amigos-del-museo",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "20175ffbcba4",
-      "title": "Canal audiovisual",
-      "company": "",
-      "location": "Canal audiovisual",
-      "province": "Euskadi",
-      "category": "Comunicación",
-      "date": "",
-      "url": "https://community.guggenheim-bilbao.eus/redirect?type=canal",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "fb10fb86826d",
-      "title": "Director-a de Comunicación",
-      "company": "",
-      "location": "Director-a de Comunicación",
-      "province": "Euskadi",
-      "category": "Comunicación",
-      "date": "",
-      "url": "https://www.campo-ochandiano.com/ofertas/detail/135512",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "bf40c69109d0",
-      "title": "Eventos especiales",
-      "company": "",
-      "location": "Eventos especiales",
-      "province": "Euskadi",
-      "category": "Eventos",
-      "date": "",
-      "url": "https://www.guggenheim-bilbao.eus/apoyo-empresarial/eventos-corporativos",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "5bfc80083f71",
-      "title": "Obras de la Colección del Museo Guggenheim Bilbao",
-      "company": "",
-      "location": "Obras de la Colección del Museo Guggenheim Bilbao",
-      "province": "Bizkaia",
-      "category": "Marketing digital",
-      "date": "",
-      "url": "https://www.guggenheim-bilbao.eus/exposiciones/obras-de-la-coleccion-del-museo-guggenheim-bilbao",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "ac0b6d4d42d3",
-      "title": "Área de prensa",
-      "company": "",
-      "location": "Área de prensa",
-      "province": "Euskadi",
-      "category": "RRPP y prensa",
-      "date": "",
-      "url": "https://www.guggenheim-bilbao.eus/area-de-prensa",
-      "source": "Guggenheim Bilbao",
-      "is_new": true
-    },
-    {
-      "id": "f0e8293c6cce",
-      "title": "Brand & Trade Marketing Manager - Empresa gran consumo",
-      "company": "",
-      "location": "Brand & Trade Marketing Manager - Empresa gran consumo",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/brand-trade-marketing-manager-mhd-fmcg-c%C3%B3rdoba/ref/jn-062026-7049151?ng-src=other-users-applied&ng-jn=job-search",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "a07d1b3d18d4",
-      "title": "CREATIVE CONTENT & SALES SUPPORT (Marketing)",
-      "company": "",
-      "location": "CREATIVE CONTENT & SALES SUPPORT (Marketing)",
-      "province": "Euskadi",
-      "category": "Contenidos",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/creative-content-sales-support-marketing/ref/jn-092026-7100274?ng-src=other-users-applied&ng-jn=job-search",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "546e8e6f65b6",
-      "title": "Marketing",
-      "company": "",
-      "location": "Marketing",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/jobs/marketing",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "bc406e00d617",
-      "title": "Marketing Estratégico Internacional - Biosoluciones Agrícolas",
-      "company": "",
-      "location": "Marketing Estratégico Internacional - Biosoluciones Agrícolas",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/marketing-estrat%C3%A9gico-internacional-biosoluciones-agr%C3%ADcolas/ref/jn-032026-6963798?ng-src=other-users-applied&ng-jn=job-search",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "00e927ec7749",
-      "title": "Responsable de Marketing Operativo - Omnichannel",
-      "company": "",
-      "location": "Responsable de Marketing Operativo - Omnichannel",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/responsable-de-marketing-operativo-omnichannel/ref/jn-062026-7041401",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "df9b68149100",
-      "title": "Senior Brand Marketing Manager - Sports multinational company",
-      "company": "",
-      "location": "Senior Brand Marketing Manager - Sports multinational company",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/senior-brand-marketing-manager-sports-multinational-company/ref/jn-092026-7102746?ng-src=other-users-applied&ng-jn=job-search",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "ec91cd0e13d0",
-      "title": "Trade Marketing Specialist - Spirits",
-      "company": "",
-      "location": "Trade Marketing Specialist - Spirits",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/trade-marketing-specialist-spirits/ref/jn-092026-7108613?ng-src=other-users-applied&ng-jn=job-search",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "334d9936dd7f",
-      "title": "Técnico/a Comercial Semiconductores",
-      "company": "",
-      "location": "Técnico/a Comercial Semiconductores",
-      "province": "Euskadi",
-      "category": "Marketing digital",
-      "date": "",
-      "url": "https://www.michaelpage.es/job-detail/t%C3%A9cnicoa-comercial-negocio-semiconductores/ref/jn-052026-7017898",
-      "source": "Michael Page",
-      "is_new": true
-    },
-    {
-      "id": "f0f5cbd72cbe",
-      "title": "IT & Telecomunicaciones (3)",
-      "company": "",
-      "location": "IT & Telecomunicaciones (3)",
-      "province": "Euskadi",
-      "category": "Comunicación",
-      "date": "",
-      "url": "https://www.robertwalters.es/ofertas-de-empleo.html?location=bilbao&q=&specialization=information-technology",
-      "source": "Robert Walters",
-      "is_new": true
-    },
-    {
-      "id": "aa0ecb377427",
-      "title": "Marketing",
-      "company": "",
-      "location": "Marketing",
-      "province": "Euskadi",
-      "category": "Marketing",
-      "date": "",
-      "url": "https://www.robertwalters.es/areas-de-especializacion/marketing.html",
-      "source": "Robert Walters",
-      "is_new": true
-    },
-    {
-      "id": "0218366996a9",
-      "title": "Marketing Narra la historia de grandes marcas y compañías de renombre.",
-      "company": "",
-      "location": "Marketing Narra la historia de grandes marcas y compañías de renombre.",
-      "province": "Euskadi",
-      "category": "Marca y branding",
-      "date": "",
-      "url": "https://www.robertwalters.es/areas-de-especializacion/marketing.html",
-      "source": "Robert Walters",
-      "is_new": true
-    },
-    {
-      "id": "7b46c162d03a",
-      "title": "Retail & Luxury Sé parte de un equipo que marca la diferencia.",
-      "company": "",
-      "location": "Retail & Luxury Sé parte de un equipo que marca la diferencia.",
-      "province": "Euskadi",
-      "category": "Marca y branding",
-      "date": "",
-      "url": "https://www.robertwalters.es/areas-de-especializacion/retail-luxury.html",
-      "source": "Robert Walters",
-      "is_new": true
-    },
-    {
-      "id": "62c26792782a",
-      "title": "Sala de prensa",
-      "company": "",
-      "location": "Sala de prensa",
-      "province": "Euskadi",
-      "category": "RRPP y prensa",
-      "date": "",
-      "url": "https://www.robertwalters.es/microsites/sala-de-prensa.html",
-      "source": "Robert Walters",
-      "is_new": true
-    },
-    {
-      "id": "0371bbceb7f3",
-      "title": "Sala de prensa Te ponemos en contacto con nuestros expertos en empleo para hablar sobre el mercado laboral.",
-      "company": "",
-      "location": "Sala de prensa Te ponemos en contacto con nuestros expertos en empleo para hablar sobre el mercado l",
-      "province": "Euskadi",
-      "category": "RRPP y prensa",
-      "date": "",
-      "url": "https://www.robertwalters.es/microsites/sala-de-prensa.html",
-      "source": "Robert Walters",
-      "is_new": true
     }
   ],
   "source_status": [
     {
-      "source": "Campo & Ochandiano",
-      "message": "Sin ofertas compatibles detectadas"
-    },
-    {
-      "source": "Ferruelo & Velasco",
-      "message": "Sin ofertas compatibles detectadas"
-    },
-    {
-      "source": "Deusto Alumni",
-      "message": "Sin ofertas compatibles detectadas"
-    },
-    {
-      "source": "Deusto Business Alumni",
-      "message": "Sin ofertas compatibles detectadas"
-    },
-    {
-      "source": "Selección & Formación",
-      "message": "Sin ofertas compatibles detectadas"
-    },
-    {
-      "source": "AdegiLan",
-      "message": "Sin ofertas compatibles detectadas"
+      "source": "Batea",
+      "status": "OK",
+      "detected": 2
     }
   ]
 }
