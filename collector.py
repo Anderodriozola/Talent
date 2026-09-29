@@ -50,11 +50,31 @@ def is_real_job_link(url: str) -> bool:
 
 
 def is_relevant(title: str) -> bool:
-    text = clean(title).lower()
-    has_role = any(term in text for term in ROLE_TERMS)
-    has_domain = any(term in text for term in DOMAIN_TERMS)
-    blocked = any(term in text for term in BLOCK_TERMS)
-    return has_role and has_domain and not blocked
+text = clean(title).lower()
+ 
+blocked = any(term in text for term in BLOCK_TERMS)
+if blocked:
+return False
+ 
+has_role = any(term in text for term in ROLE_TERMS)
+has_domain = any(term in text for term in DOMAIN_TERMS)
+ 
+# Cargos de dirección o coordinación
+strategic_roles = (
+"director",
+"directora",
+"dirección",
+"direccion",
+"responsable",
+"head",
+"manager",
+"coordinador",
+"coordinadora",
+)
+ 
+has_strategic_role = any(term in text for term in strategic_roles)
+ 
+return (has_role and has_domain) or has_strategic_role
 
 
 def category(title: str) -> str:
