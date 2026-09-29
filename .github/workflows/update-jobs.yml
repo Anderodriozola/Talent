@@ -1,6 +1,6 @@
 name: Actualizar ofertas
  
-on:
+"on":
 workflow_dispatch:
  
 schedule:
